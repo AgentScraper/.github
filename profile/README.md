@@ -6,18 +6,22 @@
 
 ### Web data for agents, apps, and workflows.
 
-AgentScraper turns public web pages into clean Markdown, text, and structured data. Read a page, crawl a site within a page budget, or extract the fields your application needs.
+AgentScraper turns public web pages into clean Markdown, text, and structured data. Read a page, crawl related pages within a budget, or extract the fields your application needs.
 
-**[Website](https://agentscraper-preview-20260919.vercel.app) · [API documentation](https://agentscraper-preview-20260919.vercel.app/docs) · [Brand assets](https://github.com/AgentScraper/brand) · [Contact](https://agentscraper-preview-20260919.vercel.app/contact)**
+**[Try the product preview](https://agentscraper-preview-20260919.vercel.app) · [API documentation](https://agentscraper-preview-20260919.vercel.app/docs) · [Contact](https://agentscraper-preview-20260919.vercel.app/contact)**
 
 | Start with | Get |
-|---|---|
-| A public page | Content your application can use, with the source retained. |
+| --- | --- |
+| A public page | Readable content with its source URL. |
 | A bounded crawl | Related pages collected within a page budget. |
-| The fields you need | Structured output for your workflow. |
+| Selected fields | Structured data for your application or workflow. |
 
-**Building with AgentScraper?** Start with the [API documentation](https://agentscraper-preview-20260919.vercel.app/docs) for requests, results, and job status.
+**Developer beta.** We're building tools that help agents and applications work with public web data.
 
-**Working with the identity?** Download the [logos and brand guide](https://github.com/AgentScraper/brand).
+The application source is maintained privately within this organization. Our public repositories provide brand assets and organization resources.
 
-<sub>Developer beta.</sub>
+### Brand resources
+
+Use the official AgentScraper logos, colors, and artwork for product references and integrations.
+
+**[Brand assets](https://github.com/AgentScraper/brand) · [Usage guidelines](https://github.com/AgentScraper/brand/blob/main/GUIDELINES.md)**
